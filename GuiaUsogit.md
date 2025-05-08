@@ -8,11 +8,14 @@
 ### Alta Gitthab, Gitbash (terminal), carpeta en disco local
  
 ### Comandos habituales para trabajar con un repositorio remoto
- #### Mando	                        #### Descripción
-  git remote add	        Añade una conexión de repositorio remoto.
-  git push	              Empuja los cambios confir#mados a un repositorio remoto.
+#### Mando	                        
+#### Descripción
+
+git remote add	        Añade una conexión de repositorio remoto.
+git push	              Empuja los cambios confir#mados a un repositorio remoto.
   git pull	              Obtener y fusionar cambios de un repositorio remoto.
   git fetch	              Obtener cambios de un repositorio remoto sin fusionar.
+  
 ### git init, status, remote, add, commit, push
 
 ### Clonar un repositorio
