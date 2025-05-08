@@ -6,12 +6,16 @@
 ### ¿Qué necesitamos para usar Gitthub en nuestro proyecto 
   Para usar GitHub en tu proyecto, necesitarás una cuenta de GitHub y una instalación de Git en tu computadora. Puedes usar la línea de comandos o un cliente gráfico como GitHub Desktop para interactuar con Git. 
 ### Alta Gitthab, Gitbash (terminal), carpeta en disco local
- 
+1. Crea una carpeta local
+2. Inicializa el repositorio Git
+3. Crea archivos o añade contenido a la carpeta
+4. Conecta el repositorio local con GitLab
+5. Sincroniza con GitLab
 ### Comandos habituales para trabajar con un repositorio remoto
-git remote add	Añade una conexión de repositorio remoto.
-git push	      Empuja los cambios confir#mados a un repositorio remoto.
-git pull	      Obtener y fusionar cambios de un repositorio remoto.
-git fetch	      Obtener cambios de un repositorio remoto sin fusionar.
+1. git remote add	----- Añade una conexión de repositorio remoto.
+2. git push	------------- Empuja los cambios confir#mados a un repositorio remoto.
+3. git pull	-------------- Obtener y fusionar cambios de un repositorio remoto.
+4. git fetch ------------- Obtener cambios de un repositorio remoto sin fusionar.
   
 ### git init, status, remote, add, commit, push
 
