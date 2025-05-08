@@ -21,7 +21,7 @@
 3. git pull	-------------- Obtener y fusionar cambios de un repositorio remoto.
 4. git fetch ------------- Obtener cambios de un repositorio remoto sin fusionar.
   
-### git init, status, remote, add, commit, push
+### Git init, status, remote, add, commit, push
 1. **El comando git init** Crea un nuevo repositorio Git. Permite convertir un proyecto existente sin versionar en un repositorio Git o inicializar un nuevo repositorio 
    vacío.
 2. **El comando git status**Muestra el estado del directorio de trabajo y del área de staging. Permite ver qué cambios se han almacenado, cuáles no y qué archivos no están siendo rastreados por Git. La salida de estado no muestra información sobre el historial de proyectos confirmados.
