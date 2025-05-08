@@ -2,13 +2,13 @@
 ### Que es git?
   Git es un sistema de control de versiones distribuido de código abierto que se utiliza para rastrear los cambios en los archivos de un proyecto a lo largo del tiempo. 
   
-### Que es  gitthub?
+### Que es  github?
   Git es un sistema de control de versiones que permite gestionar el historial de cambios en un proyecto, mientras que GitHub es una plataforma web para alojar y colaborar en proyectos de código fuente que utilizan Git.
   
-### ¿Qué necesitamos para usar Gitthub en nuestro proyecto 
+### ¿Qué necesitamos para usar Github en nuestro proyecto 
   Para usar GitHub en tu proyecto, necesitarás una cuenta de GitHub y una instalación de Git en tu computadora. Puedes usar la línea de comandos o un cliente gráfico como GitHub Desktop para interactuar con Git. 
   
-### Alta Gitthab, Gitbash (terminal), carpeta en disco local
+### Alta Github, Gitbash (terminal), carpeta en disco local
 1. Crea una carpeta local
 2. Inicializa el repositorio Git
 3. Crea archivos o añade contenido a la carpeta
