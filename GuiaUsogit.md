@@ -14,7 +14,7 @@
 3. Crea archivos o añade contenido a la carpeta
 4. Conecta el repositorio local con GitLab
 5. Sincroniza con GitLab
-6. 
+
 ### Comandos habituales para trabajar con un repositorio remoto
 1. git remote add	----- Añade una conexión de repositorio remoto.
 2. git push	------------- Empuja los cambios confir#mados a un repositorio remoto.
@@ -22,17 +22,15 @@
 4. git fetch ------------- Obtener cambios de un repositorio remoto sin fusionar.
   
 ### git init, status, remote, add, commit, push
-1. **El comando git init** crea un nuevo repositorio Git. Permite convertir un proyecto existente sin versionar en un repositorio Git o inicializar un nuevo repositorio 
+1. **El comando git init** Crea un nuevo repositorio Git. Permite convertir un proyecto existente sin versionar en un repositorio Git o inicializar un nuevo repositorio 
    vacío.
-2. **El comando git status**muestra el estado del directorio de trabajo y del área de staging. Permite ver qué cambios se han almacenado, cuáles no y qué archivos no están siendo rastreados 
-   por Git. La salida de estado no muestra información sobre el historial de proyectos confirmados.
-3. **Un repositorio remoto en Git** es un repositorio común que todos los miembros del equipo usan para intercambiar sus cambios. En la mayoría de los casos, este repositorio remoto se 
+2. **El comando git status**Muestra el estado del directorio de trabajo y del área de staging. Permite ver qué cambios se han almacenado, cuáles no y qué archivos no están siendo rastreados por Git. La salida de estado no muestra información sobre el historial de proyectos confirmados.
+3. **Un repositorio remoto en Git** Es un repositorio común que todos los miembros del equipo usan para intercambiar sus cambios. En la mayoría de los casos, este repositorio remoto se 
    almacena en un servicio de alojamiento de código como GitHub o en un servidor interno.
 4. **El comando git add** El comando git add añade un cambio en el directorio de trabajo al área de staging. Indica a Git que se desea incluir las actualizaciones de un archivo específico en la siguiente confirmación. Sin embargo, git add no afecta significativamente al repositorio; los cambios no se registran hasta que se ejecuta git commit.
 5. **it commit -a**. Confirma una instantánea de todos los cambios en el directorio de trabajo. Esto solo incluye las modificaciones a los archivos rastreados (aquellos que se agregaron con 
 6. **git commit -m "mensaje de confirmación"** Un comando de acceso directo que crea inmediatamente una confirmación con un mensaje de confirmación enviado.
-7. **El comando git push** se usa para subir el contenido de un repositorio local a un repositorio remoto. Subir confirmaciones es la forma de transferirlas desde el repositorio local a un 
-   repositorio remoto. Es la contraparte de git fetch, pero mientras que obtener importa confirmaciones a las ramas locales, subir las exporta a las ramas remotas.
+7. **El comando git push** Se usa para subir el contenido de un repositorio local a un repositorio remoto. Subir confirmaciones es la forma de transferirlas desde el repositorio local a un repositorio remoto. Es la contraparte de git fetch, pero mientras que obtener importa confirmaciones a las ramas locales, subir las exporta a las ramas remotas.
 
 ### Clonar un repositorio
   Genera una copia completa de todos los datos del repositorio que GitHub.com tiene en ese momento, incluyendo todas las versiones de cada archivo y carpeta del proyecto .
