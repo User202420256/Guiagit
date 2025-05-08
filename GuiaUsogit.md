@@ -1,4 +1,5 @@
-# Guia basica del usode Git
+# Guia basica del usode 
+
 ### Que es git?
   Git es un sistema de control de versiones distribuido de código abierto que se utiliza para rastrear los cambios en los archivos de un proyecto a lo largo del tiempo. 
   
