@@ -1,14 +1,16 @@
 # Guia basica del usode Git
 ### Que es git?
   Git es un sistema de control de versiones distribuido de código abierto que se utiliza para rastrear los cambios en los archivos de un proyecto a lo largo del tiempo. 
-Que es  gitthub?
+### Que es  gitthub?
+  Git es un sistema de control de versiones que permite gestionar el historial de cambios en un proyecto, mientras que GitHub es una plataforma web para alojar y colaborar en proyectos de código fuente que utilizan Git.
+### ¿Qué necesitamos para usar Gitthub en nuestro proyecto 
 
-¿Qué necesitamos para usar Gitthub en nuestro protecto
- Alta Gitthab, Gitbash (terminal), carpeta en disco local
+### Alta Gitthab, Gitbash (terminal), carpeta en disco local
  
-Comandos habituales para trabajar con un repositorio remoto
-git init, status, remote, add, commit, push
+### Comandos habituales para trabajar con un repositorio remoto
+### git init, status, remote, add, commit, push
 
-Clonar un repositorio
-
-Hacer Fork de un repositorio existente
+### Clonar un repositorio
+  Genera una copia completa de todos los datos del repositorio que GitHub.com tiene en ese momento, incluyendo todas las versiones de cada archivo y carpeta del proyecto .
+### Hacer Fork de un repositorio existente
+  Significa crear una copia completa y totalmente independiente de ese repositorio en tu propio espacio de trabajo.
